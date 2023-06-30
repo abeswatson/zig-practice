@@ -1,0 +1,2 @@
+0
+56116 844424931937508 1687717610000000000 1b0d1c80b5d285db3599ef03d646eb46 0 C:\Users\abewa\AppData\Roaming\Code\User\globalStorage\ziglang.vscode-zig\zig_install\lib\libc\mingw\lib-common\ntdll.def.in
